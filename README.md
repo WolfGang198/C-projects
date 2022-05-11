@@ -24,7 +24,7 @@ Tabela de Conteúdos
 <!--te-->
 
 # Sobre
-Atividade de pilha feito em Java utilizando NetBeans
+Atividades feitas em C++ utilizando Dev C++
 
 # Instalação
 
@@ -71,7 +71,7 @@ Table of Contents
 <!--te-->
 
 # About
-Stack activity done in Java using NetBeans
+Activities done in C++ using Dev C++
 
 # Installation
 
