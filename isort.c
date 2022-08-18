@@ -7,9 +7,11 @@ void insert(int v[], int i)
 	int c = i-1;
 	while(c>=0 && eleito<v[c])
 	{
+		compIs++;
 		v[c+1] = v[c];//deslocar e comparar
 		c--;
 	}//fim while
+	compIs++;
 	v[c+1] = eleito;
 }
 //---------------------------
