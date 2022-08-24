@@ -12,7 +12,7 @@ void geraVet(int v[], int n){
 	int i;
 	srand(time(NULL));
 	for(i=0;i<n;i++)
-	   v[i]=rand()%50;
+	   v[i]=rand()%500;
 }// fim geraV
 //-----------------------------
 void printVetor(int v[],int n){
@@ -21,6 +21,13 @@ void printVetor(int v[],int n){
 	  printf("%d |",v[i]);
 	printf("\n");  
 }// fim printVetor
+//-----------------------------
+void printVetor2(int v[],int ini, int fim){
+	int i;
+	for(i=ini;i<=fim;i++)
+	  printf("%d |",v[i]);
+	printf("\n");  
+}// fim printVetor2 - busca binaria
 //--------- Bubble Sort -----------------
 void bsort(int v[], int n){
 	int i,j;
