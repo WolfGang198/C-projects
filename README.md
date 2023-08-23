@@ -52,7 +52,7 @@ Foi utilizada a seguinte ferramenta no desenvolvimento desse projeto:
 
 # Autor
 
-- [Tiago Neves Ferreira](https://github.com/Tiago-Neves-Ferreira)
+- [Tiago Neves Ferreira](https://github.com/WolfGang198)
 
 # English
 
