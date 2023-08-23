@@ -99,4 +99,4 @@ The following tool was used in the development of this project:
 
 # Author
 
-- [Tiago Neves Ferreira](https://github.com/Tiago-Neves-Ferreira)
+- [Tiago Neves Ferreira](https://github.com/WolfGang198)
